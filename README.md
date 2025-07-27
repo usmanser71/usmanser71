@@ -1,6 +1,4 @@
-<h1 align="center">Hi, I'm Usman</h1>
-<p align="center">
-<img src="(https://files.catbox.moe/t8yn0d.jpg)" width="150" />
+<h1 align="center">Hi, I'm 𓆩𝐔𝐒𝐌𝐀𝐍 𝐒𝐄𝐑𓆪</h1>
 </p>
 <h3 align="center"> A passionate developer from Pakistan</h3>
 
