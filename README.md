@@ -1,9 +1,8 @@
-<h1 align="center">Hey 👋, I'm 𓆩𝐔𝐒𝐌𝐀𝐍 𝐒𝐄𝐑𓆪</h1>
-<h3 align="center">🚀 WhatsApp Bot Developer | 💻 Node.js Lover | 🌐 Automation Enthusiast</h3>
-
+<h1 align="center">Hi, I'm Usman</h1>
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/000000000?v=4" width="150" style="border-radius:50%" alt="profile-pic"/>
+<img src="https://files.catbox.moe/8pgugx.mp4" width="150" />
 </p>
+<h3 align="center"> A passionate developer from Pakistan</h3>
 
 ---
 
