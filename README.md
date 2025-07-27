@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Usman</h1>
 <p align="center">
-<img src="https://files.catbox.moe/8pgugx.mp4" width="150" />
+<img src="(https://files.catbox.moe/t8yn0d.jpg)" width="150" />
 </p>
 <h3 align="center"> A passionate developer from Pakistan</h3>
 
