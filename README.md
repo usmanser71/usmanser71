@@ -7,7 +7,7 @@
 
 📬 Contact Me
 - 📱 WhatsApp: [Chat Now](https://wa.me/923351300389)
-- 📷 Instagram: [@your_instagram](https://instagram.com/usmanser123)
+- 📷 Instagram: [instagram](https://instagram.com/usmanser123)
 - 📧 Email: mu3090658722@gmail.com
 - 🌍 Website: [yourwebsite.com](https://yourwebsite.com)
 
