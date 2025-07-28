@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm 𓆩𝐔𝐒𝐌𝐀𝐍 𝐒𝐄𝐑𓆪</h1>
-<h2 align="center"><img src="https://files.catbox.moe/t8yn0d.jpg" width="400" style="border-radius:50%;" />
+<h2 align="center"><img src="https://files.catbox.moe/t8yn0d.jpg" width="800" style="border-radius:50%;" />
 </p>
 <h3 align="center"> A passionate developer from Pakistan</h3>
 
