@@ -36,7 +36,7 @@
 ---
 
 📌 About Me
-- 🔭 Working on: *MANI-BIZ-MD WhatsApp Bot*
+- 🔭 Working on: *USMAN-MD WhatsApp Bot*
 - 🌱 Learning: *WebSocket, Express.js, Firebase Auth*
 - 💬 Ask me about: *WhatsApp bots, Deployment, Automation*
 - ⚡ Fun Fact: *Code karta hoon, aur bot reply karta hai! 😄*
